@@ -1,4 +1,4 @@
-(function (ng, _) {
+module.exports = function (ng, _) {
   'use strict';
 
   var
@@ -150,4 +150,4 @@
 
   // end register angular-lodash/filters
 
-}(angular, _));
+};
